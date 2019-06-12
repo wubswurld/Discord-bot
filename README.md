@@ -1,2 +1,2 @@
-# material-builder
-ft_react
+# Discord bot
+this bot has basic functionality and few fun abilities
